@@ -1,8 +1,8 @@
 {
-  "name": "react-js-cron-mui",
+  "name": "@fabioblanco7/react-js-cron-mui",
   "version": "1.3.0",
-  "description": "A React cron editor with Material UIv5 a forked repo from Itay Levy (https://github.com/levyitay/react-js-cron-mui.git)",
-  "author": "Fabio Blanco (https://github.com/levyitay/)",
+  "description": "A React cron editor with Material UI a forked repo from Xavier Rutayisire (https://github.com/xrutayisire/react-js-cron)",
+  "author": "Fabio Blanco (https://github.com/FabioBlanco0706)",
   "license": "MIT",
   "keywords": [
     "react",
